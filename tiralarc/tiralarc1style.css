@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d1eefa;
+}
+
+.header {
+    background-image: url('images/background_tirALArc.png');
+    background-size: auto 260px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+
+}
+
+
+.header h1 {
+    padding-top: 25px;
+}
+
+.menu {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.menu a {
+    color: black;
+    margin-left: 50px;
+}
+
+
+h1 {
+    margin: 0;
+}
+
+.contenue {
+    padding: 20px 80px;
+    text-align: center;
+}
+
+.contenue ul {
+    list-style-position: inside;
+}
+
+.contenue ul li a {
+    color: black;
+}
+
+.contenue ul li {
+    padding-bottom: 10px;
+}
+
+.contenue{
+    text-align: center;
+}
+
+.viser{
+    text-align: left;
+}
