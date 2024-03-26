@@ -1,0 +1,27 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+	<title>Le breaking au JO</title>
+	<link rel="stylesheet" href="MonStyle.css">
+</head>
+
+<body >
+<h1>Le breaking au Jeux Olympiques</h1>
+<p><img src=breakingphoto2.jpg" alt="breakingphoto2">
+</p>
+<h2>Les épreuves</h2>
+<p>Lors des JO, il y aura 2 épreuves, masculine et féminine, 16 b-boys et 16 b-girl, qui s'affrontent en 1vs1 dans des battles. Lors des battles ils devrons enchaîner des mouvements en improvisant et en étant au rythme de la musique du DJ</p>
+
+<p>Ces danses sont des danses acrobatiques elles consistent à faire des battles avec des figures au sol,de la musique et un DJ. </p>
+
+
+
+
+<p>Autres pages web qu'il pourrait être intéressant de
+visiter : votre deuxième page, ...etc.</p>
+
+Sommaire
+/index/index.html
+
+</body>
+</html>

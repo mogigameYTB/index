@@ -1,0 +1,28 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+	<title>Patricia Sovivath</title>
+	<link rel="stylesheet" href="MonStyle.css">
+</head>
+
+<body >
+<h1>Patinage artistique</h1>
+<img src= "patin1.jpg" alt= "Le patinage"
+</p>
+<h2>Informations de base</h2>
+<p>Le patinage artistique est un sport de discipline artistique qui se pratique sur une glace qui peut etre artificielle, synthétique ou bien tout simplement naturelle.</p>
+
+<h2>Origines du patinage Artistique</h2>
+
+<p>Avant d'etre le sport que l'on connait aujord'hui le patinage était plus utilisé par les nobles au XIXème siecle.
+
+</p>
+<p> En 1850 il a connu sa première evokution grace a Edward Bushnell qui inventa les premiers patins a lame d'acier.
+</p>
+
+Liens vers le sommaire <a href="/index/index.html">pour consulter la page</a>
+
+
+
+</body>
+</html>

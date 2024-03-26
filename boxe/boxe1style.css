@@ -1,0 +1,36 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+	<title>Un titre</title>
+	<link rel="stylesheet" href="boxe1style(2).css">
+h1 { 
+    font-size: 200%
+    color: red;
+    text-align: left
+   }
+
+</head>
+
+<body >
+<h1>Boxe</h1>
+<p>Insérer une photo, si possible sous licence
+libre. 
+</p>
+<p>Une phrase d'introduction </p>
+
+Utilisez une balise h2
+
+<p>La boxe est une discipline qui existe depuis des années, il en existe différent types, les plus populaires sont la boxe anglaise, le muay thaï, le kick-boxing, la savate,la boxe américaine le MMA, la boxe chinoise ou encore la boxe féminine..
+</p>
+<p>Un second paragraphe. 
+</p>
+
+Utilisez une balise h2 : Voir aussi 
+
+
+<p>Autres pages web qu'il pourrait être intéressant de
+visiter : votre deuxième page, ...etc.</p>
+
+
+</body>
+</html>

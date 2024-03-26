@@ -1,0 +1,23 @@
+
+body {
+ background-color: black;
+ font-family: Verdana, sans-serif;
+ font-size: 100%;
+ }
+h1 {
+ font-size: 400%;
+ color: pink;
+ text-align: center;
+ }
+h2 {
+ font-size: 150%;
+ color: pink;
+ }
+h4 {
+ font-size: 90%;
+ color: pink;
+}
+
+p,ul,li,td {
+ color: white;
+ }

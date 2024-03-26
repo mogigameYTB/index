@@ -1,0 +1,24 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+	<title>Le breaking au JO</title>
+	<link rel="stylesheet" href="MonStyle.css">
+</head>
+
+<body >
+<h1>Le breaking</h1>
+<p><img src="photobreaking1.jpg" alt="breakingphoto1">
+</p>
+<h2>Qu'est ce que le breaking? </h2>
+<p>Le breaking est un style de danse issu de la culture hip-hop il s'est développé dans les années 1970.</p>
+
+<p>Ces danses sont des danses acrobatiques elles consistent à faire des battles avec des figures au sol,de la musique et un DJ. </p>
+
+
+
+
+<p> <a href="Breaking2.html">suite</a></p>
+
+
+</body>
+</html>
