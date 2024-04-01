@@ -1,0 +1,16 @@
+
+h2 {font-style: italic;}
+h3 { color : blue ; }
+h3 {Text-decoration : underline}
+h4 {Text-decoration : underline}
+h4 { color : red ; }
+
+body{
+    background-color: rgb(104, 220, 255);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-align : center
+}
